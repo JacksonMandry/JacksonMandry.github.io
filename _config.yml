@@ -23,7 +23,7 @@ repository               : "JacksonMandry/JacksonMandry.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio-photo-2.jpg"
   name             : "Jackson Mandry"
   pronouns         : # example: "she/her"  
   bio              : "MS student in Aerospace Engineering at USU under Dr. Douglas F. Hunsaker, class 2027.<br>BS in Mechanical Engineering with Aerospace Emphasis from USU, class 2026."
